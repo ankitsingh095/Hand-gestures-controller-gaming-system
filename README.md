@@ -3,7 +3,7 @@ mediapipe
 pyautogui
 pygame
 imageio
-
+.
 
 
 
