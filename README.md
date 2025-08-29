@@ -1,3 +1,12 @@
+opencv-python
+mediapipe
+pyautogui
+pygame
+imageio
+
+
+
+
 ![Demo](demo.gif)
 
 # Hand Gesture-Controlled Gaming System
