@@ -34,9 +34,19 @@ pip install -r requirements.txt
 python game.py
 ```
 
+
+
 2. In another terminal, start the gesture controller:
 ```bash
 python main.py
 ```
 
 Quit the gesture window with **q**.
+
+
+
+
+
+
+# Hand gestures-controller gaming system
+Hand Gesture-Controlled Gaming System using Python, OpenCV, and MediaPipe — play games with your hands instead of a keyboard.
